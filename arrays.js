@@ -8,7 +8,6 @@ console.log(years[1]);
 console.log(years[2]);
 console.log(years[3]);
 
-
 // ==========================================
 // 2. Declareer een variabele en sla daar een array met drie van jouw hobbies (zoals muziek luisteren en koekjes eten) in op. Log dit in de terminal.
 // ==========================================
@@ -35,6 +34,7 @@ const colors = ["groen", "geel", "rood", "paars", "blauw", "oranje"];
 console.log(colors[4]);
 console.log(colors[1]);
 
+
 // ==========================================
 // 5a. Declareer een variabele met daarin een array met de waardes 21, 22, 23, 25, 25 en log dit in de terminal
 // 5b. Overschrijf één van de items in de array dusdanig dat de cijferreeks netjes doorloopt (je mag de declaratie op de vorige regel niet aanpassen).
@@ -52,6 +52,7 @@ console.log(numbers2);
 // 6c. Log de array in de terminal                                                       // geeft [ 'lasagne bladen', 'knoflook', 'spinazie' ]
 // 6d. Log de lengte van de array in de terminal                                            // geeft 3
 // ==========================================
+
 
 const ingredients = ["bladerdeeg", "knoflook", "spinazie"];
 ingredients[0] = "lasagne bladen";
